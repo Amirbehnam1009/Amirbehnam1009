@@ -1,4 +1,4 @@
-<h1 align="center"Greetings! 👋</h1>
+<h1 align="center"> Greetings!👋 </h1>
 <h3 align="center">I'm a BSc Graduate of Computer Engineering from Amirkabir University of Technology trying to learn as much as possible!</h3>
 
 
