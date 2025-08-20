@@ -10,6 +10,12 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,react,wordpress" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,arduino,gamemakerstudio,unity,git" /><br>
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+    <img width="50" height="50" alt="Keras" src="https://github.com/user-attachments/assets/f6c52b38-364b-44da-8c59-b421dd62e309" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="50" height="50"/>&nbsp;
+    
+    
   </a>
 </p>
  
