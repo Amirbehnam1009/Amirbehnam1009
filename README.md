@@ -2,14 +2,14 @@
 <h3 align="center">I'm a BSc Graduate of Computer Engineering from Amirkabir University of Technology trying to learn as much as possible!</h3>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Frameworks & Tools :
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,python,c,java,cpp,js,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,arduino,prometheus,selenium,gamemakerstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,windows,gmail,github,git,latex" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,php,react,wordpress" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,arduino,gamemakerstudio,unity,git" /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
   </a>
 </p>
  
